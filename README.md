@@ -98,8 +98,9 @@ After removing suspicious extensions:
 
 - Installed Extensions List  
 - Permissions of Suspicious Extension  
-- Removal Confirmation  
+- Removal Confirmation
 
+>Screenshot PDF Attached
 ---
 
 
